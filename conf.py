@@ -226,7 +226,11 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-# 'preamble': '',
+'preamble': r'''
+\usepackage[title]{appendix}
+\renewcommand{\appendixname}{Allegato}
+\renewcommand{\appendixpagename}{Allegato}
+''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

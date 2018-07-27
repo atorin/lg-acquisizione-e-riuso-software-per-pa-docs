@@ -12,9 +12,11 @@ Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 
 .. raw:: latex
    
-   \appendix
+   \appendices
    \renewcommand\@seccntformat[1]{}
    \renewcommand{\numberline}[1]{}
+   \renewcommand{\appendixname}{Allegato}
+   \renewcommand{\appendixpagename}{Allegato}
    
 
 .. toctree::
