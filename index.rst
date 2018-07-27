@@ -14,6 +14,7 @@ Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
    
    \appendix
    \renewcommand\@seccntformat[1]{}
+   \renewcommand{\numberline}[1]{}
    
 
 .. toctree::
