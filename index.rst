@@ -13,6 +13,8 @@ Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
 .. raw:: latex
    
    \appendix
+   \renewcommand\@seccntformat[1]{}
+   
 
 .. toctree::
    :caption: Indice degli allegati
