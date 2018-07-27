@@ -10,6 +10,10 @@ Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
    acquisizione-software.rst
    riuso-software.rst
 
+.. raw:: latex
+   
+   \appendix
+
 .. toctree::
    :caption: Indice degli allegati
    :maxdepth: 1
